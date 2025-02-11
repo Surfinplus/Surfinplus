@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Surfinplus! 👋
 
-<!--
-**Surfinplus/Surfinplus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I am passionate about software development and always eager to expand my knowledge. My goal is to complete my education while continuously building new projects. With curiosity and excitement, I look forward to stepping into the professional world and establishing my place in this vast software ecosystem.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- 💻 Languages: **C++, C#, Java**  
+- 🌐 Web Development: **HTML, CSS, ASP.NET (MVC)**  
+- 🗄 Databases: **SQL**  
+- 🔹 Object-Oriented Programming (OOP)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-eren--çoban-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/eren-%C3%A7oban-38b053249/) 
+[![Instagram](https://img.shields.io/badge/Instagram-erencbnn-purple?style=flat-square&logo=instagram)](https://www.instagram.com/erencbnn/)
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Surfinplus&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Surfinplus&layout=compact&theme=dark)
+
+---
+✨ *Let's build something great together!*
