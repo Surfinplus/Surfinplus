@@ -1,4 +1,3 @@
-# Hi there, I'm Surfinplus! 👋
 
 ## 💫 About Me:
 - 👀 I’m passionate about software development and always eager to expand my knowledge.<br>
